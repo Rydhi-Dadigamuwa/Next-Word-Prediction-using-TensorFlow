@@ -4,3 +4,16 @@
 <br/>
 
 ### Curious to learn more? Check out the full article [here!](link)
+<br/>
+
+## Setup Instructions
+
+If your computer does not have the required libraries installed, follow these steps:
+
+```bash
+   pip install tensorflow
+```
+
+```bash
+   pip install numpy
+```
